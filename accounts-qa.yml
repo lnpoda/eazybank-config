@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Eazybank accounts test APIs"
+  contactDetails:
+    name: "Jesse - QA Lead"
+    email: "j@eazybank.com"
+  onCallSupport:
+    - (111)111-1111
+    - (222)222-2222
