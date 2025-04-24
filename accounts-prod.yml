@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Eazybank accounts production APIs"
+  message: "Eazybank accounts prod APIs"
   contactDetails:
     name: "Pelias Sudhir - Developer"
     email: "{cipher}0c49dd76330f18fc1d90f97e7dea29d6fc8406577689ba5829b3873babbe38ec"
