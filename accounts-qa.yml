@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Eazybank accounts-qa APIs"
+  message: "EGBank accounts-qa APIs"
   contactDetails:
     name: "Jesse - QA Lead"
     email: "j@eazybank.com"
